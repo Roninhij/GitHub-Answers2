@@ -1,0 +1,17 @@
+1. What is Git?
+
+Git is the source control software that allows you to create snapshots and push them and it gives you all of the functionality 
+
+2. What is a repository in Git?
+a central storage location for managing and tracking changes in files and directories, also in order to push something or take your website live or take your application live we need to have a good repository on where we need to have a repository
+that we can push into any platform so it could host, it usually refer to the data source that store th efull history and source 
+control of a project so it stores all of the changes and progress of the project overtime.
+
+3. What is the purpose of version control?
+its a system or software that allows you to track changes or track file progress in a project or directory overtime, it allows you to distribute your changes over a timeline in a chronological order.
+
+4. What is a commit in Git?
+
+A commit allows you to take a snapshot of all the changes of the modifications you've done at the time and store them in a tree.
+
+5. What is a branch in Git?
